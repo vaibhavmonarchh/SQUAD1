@@ -3,14 +3,10 @@ package Chandrapur;
 public class kunal {
      
 	public static void main(String[] args) {
-		
-		String a = "Velocity Class Batch 2021 city katraj";
+	 {
+		System.out.println("HII");	
+	}
 				
-		String r [] = a.split(" ");		
-		
-		System.out.println(r.length);
-		
-		
 		
 	}
 }
